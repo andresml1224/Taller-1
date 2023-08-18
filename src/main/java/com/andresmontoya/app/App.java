@@ -1,4 +1,4 @@
-package com.andresmontoya;
+package com.andresmontoya.app;
 
 import com.andresmontoya.domain.DispensadorAgua;
 
